@@ -9,7 +9,7 @@ body {
     border-radius: 15px;
     margin : auto;
     box-shadow: 2px 4px 20px  rgb(0 0 0 / 0.3);
-
+    max-width : 1120px;
 }
 
 h3 {
